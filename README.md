@@ -269,11 +269,3 @@ data class Developer(
 <br/><br/>
 
 </div>
-
-<!-- ████████████████████  FOOTER  ████████████████████ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020917,50:0a1628,100:020917&height=100&section=footer&fontColor=94a3b8" width="100%"/>
-
-<div align="center">
-  <sub><i>"Architecture is not about making things perfect — it's about making them change-ready."</i></sub>
-</div>
