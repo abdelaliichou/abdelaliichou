@@ -131,7 +131,7 @@ data class Developer(
     <td width="10" valign="top" align="center">🔵</td>
     <td valign="top">
       <b>Stage & Alternance — Software Engineer</b><br/>
-      <a href="https://www.harvest.fr"><sub>🏢 Groupe Harvest · Clermont-Ferrand, Aubière</sub></a>
+      <sub>🏢 Groupe Harvest · Clermont-Ferrand, Aubière</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white"/>
