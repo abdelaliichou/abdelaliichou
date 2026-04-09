@@ -219,27 +219,6 @@ data class Developer(
 
 ---
 
-<!-- ████████████████████  GITHUB STATS  ████████████████████ -->
-
-## `$ git stats --all`
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=abdelaliichou&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=020917&title_color=00d4ff&icon_color=00d4ff&text_color=94a3b8&ring_color=00d4ff"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaliichou&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=020917&title_color=00d4ff&text_color=94a3b8"/>
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaliichou&theme=github-dark-blue&hide_border=true&background=020917&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=94a3b8&dates=64748b&stroke=0d2137"/>
-
-</div>
-
-<br/>
-
----
-
 <!-- ████████████████████  TROPHIES  ████████████████████ -->
 
 ## `$ achievements --list`
@@ -257,20 +236,6 @@ data class Developer(
 <img src="https://img.shields.io/badge/4%20Freelance%20Apps-Shipped%20%F0%9F%9A%80-f59e0b?style=for-the-badge&logo=googleplay&logoColor=white"/>
 <img src="https://img.shields.io/badge/Master%202-Software%20Engineering-e11d48?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/3%20Languages-FR%20%C2%B7%20EN%20%C2%B7%20AR-64748b?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████  ACTIVITY GRAPH  ████████████████████ -->
-
-## `$ git log --graph`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelaliichou&theme=react-dark&bg_color=020917&color=00d4ff&line=00d4ff&point=e2e8f0&hide_border=true&area=true&area_color=00d4ff"/>
 
 </div>
 
