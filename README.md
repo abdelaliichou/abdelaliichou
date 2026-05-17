@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hexagonal+architecture+%7C+DDD+%7C+CI%2FCD;SpringBoot+%C2%B7+Quarkus+%C2%B7+K8S+%C2%B7+ArgoCD;Android+%26+iOS+%C2%B7+Flutter+%C2%B7+React+Native;AI+workflow+orchestration+via+MCP+servers;%F0%9F%9F%A2+Available+for+CDI%2FCDD+%E2%80%94+September+2026" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=TDD+%7C+BDD+%7C+ATDD+%7C+FDD+%7C+DDD+%7C+CI%2FCD;SpringBoot+%C2%B7+Quarkus+%C2%B7+Keycloak+%C2%B7+K8S+%C2%B7+ArgoCD;Android+%26+iOS+%C2%B7+Angular+%C2%B7+Flutter+%C2%B7+React+Native;AI+workflows+orchestration;%F0%9F%9F%A2+Available+for+Work" alt="Typing SVG" /></a>
 
 <br/><br/>
 
